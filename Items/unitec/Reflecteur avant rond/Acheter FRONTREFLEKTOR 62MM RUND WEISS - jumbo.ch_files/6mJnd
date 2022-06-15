@@ -1,0 +1,1 @@
+(function(d){var s=d.createElement('script'),r=d.getElementsByTagName('script')[0],v=('; '+d.cookie).split('; _gb_ver=').pop().split(';').shift();s.async=1;s.src='https://static.getback.ch/clients/6mJnd.js'+((v)?'?ver='+v:'');r.parentNode.insertBefore(s,r);})(document);

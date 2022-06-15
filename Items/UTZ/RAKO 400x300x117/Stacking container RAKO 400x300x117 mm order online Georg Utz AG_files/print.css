@@ -1,0 +1,32 @@
+.hideOnPrint,
+body.compareModal #offcanvas-left {
+  display: none !important;
+}
+body.compareModal {
+  font-size: 14px;
+}
+body.compareModal .table > tbody > tr > td,
+body.compareModal .table > tbody > tr > th,
+body.compareModal .table > tfoot > tr > td,
+body.compareModal .table > tfoot > tr > th,
+body.compareModal .table > thead > tr > td,
+body.compareModal .table > thead > tr > th {
+  padding:4px;
+}
+body.compareModal .img-responsive {
+  max-height:80px;
+}
+body.compareModal .table {
+  margin-bottom:0px;
+}
+body.compareModal .modal-body {
+  padding-bottom:0px;
+}
+body h2.claimlabel {
+  color:#00457C !important;
+}
+html,
+body,
+a {
+  color:#000 !important;
+}
