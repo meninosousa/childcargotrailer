@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-10092020-035841";"";
+"REFERENCE";"2.HGA0.E030";"";
+"TraceParts.PartTitle";"Einrad-Lenkrolle mit Totalfeststellung, Rückenloch für M10, Raddurchmesser: 75mm, Tragkraft: 60 kg, mit spurfreier grauer thermoplastischer Bereifung (TPE) / 90 shore A, leitfähig";"";
+"TraceParts.InstanceId";"90-10092020-03584178P2ST6ENTHNY6M228NL8S6AD";"";
+"DESIGN";"Einrad-Lenkrolle der Serie 316, Ø75 mm mit Kugellager und Totalfeststellung, Rückenloch für M10";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"STEINCO Paul vom Stein GmbH";"";
+"TraceParts.PartVersion";"1.2.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.ClassPath";"STEINCO_43605093:90-10092020-035841";"";
