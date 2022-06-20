@@ -1,1 +1,0 @@
-define(['Magento_Customer/js/customer-data','dataLayerShareComponent'],function(customerData,dataLayerShareComponent){'use strict';return function(options){customerData.get("magepal-eegtm-jsdatalayer").subscribe(function(data){var shareComponent=dataLayerShareComponent();shareComponent.setConfig(options).pushAddRemoveItemDataLayer(data);},this);}});

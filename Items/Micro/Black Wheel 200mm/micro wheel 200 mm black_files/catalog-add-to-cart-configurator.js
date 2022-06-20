@@ -1,3 +1,0 @@
-define(['jquery'],function($){'use strict';return function(targetWidget){$.widget('mage.catalogAddToCart',targetWidget,{submitForm:function(form){var $configuratorData=$('#configuratorData');if($configuratorData.length>0){var formConfiguratorDataClass='configurator-options-data',formConfiguratorDataSelector='.'+formConfiguratorDataClass,$formConfiguratorData=$(formConfiguratorDataSelector);if($formConfiguratorData.length>0){if($formConfiguratorData.children().length){$formConfiguratorData.children().remove();}}else{$('<div>',{class:formConfiguratorDataClass}).appendTo(form);}
-$configuratorData.children().clone().appendTo(formConfiguratorDataSelector);}
-this._super(form);},});return $.mage.catalogAddToCart;};});
